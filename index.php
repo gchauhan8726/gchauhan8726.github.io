@@ -1,165 +1,754 @@
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<HTML>
-<HEAD>
-<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<META http-equiv="X-UA-Compatible" content="IE=8">
-<TITLE>bcl_549964311.htm</TITLE>
-<META name="generator" content="BCL easyConverter SDK 5.0.101">
-<STYLE type="text/css">
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Anthony Jordan - User Experience Designer</title>
+<meta name="keywords" content="Keyword1, Keyword2, Keyword3">
+<meta name="description" content="A onepage resume / personal template">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='https://fonts.googleapis.com/css?family=Merriweather:400,400italicc%7COswald:300,400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="fonts/linearicons/web-font/style.css">
+<link rel="stylesheet" href="fonts/et-line-font/style.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="js/vendor/owl.carousel.2.1.0/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="js/vendor/owl.carousel.2.1.0/assets/owl.theme.default.min.css">
+<link rel="stylesheet" href="css/animate.css">
+<link rel="stylesheet" href="css/jordan.css" id="css-jordan">
+<link rel="stylesheet" href="css/demo.css">
+</head>
+<body>
 
-body {margin-top: 0px;margin-left: 0px;}
+<div class="settings">
+<div class="handle"><a href="#"><span class="lnr lnr-cog"></span></a></div>
+<form>
+<h3>Color Schemes</h3>
+<div class="clearfix">
+<a href="#" class="color" data-color="214,116,86" style="background-color: rgb(243,128,98);"></a>
+<a href="#" class="color active" data-color="226, 105, 105" style="background-color: rgb(226,105,105);"></a>
+<a href="#" class="color" data-color="169,102,119" style="background-color: rgb(169,102,119);"></a>
+<a href="#" class="color" data-color="137,131,167" style="background-color: rgb(137,131,167);"></a>
+<a href="#" class="color" data-color="140,137,121" style="background-color: rgb(140,137,121);"></a>
+<a href="#" class="color" data-color="148,166,159" style="background-color: rgb(148,166,159);"></a>
+<a href="#" class="color" data-color="215,143,60" style="background-color: rgb(215,143,60);"></a>
+<a href="#" class="color" data-color="57,101,143" style="background-color: rgb(57,101,143);"></a>
+<a href="#" class="color" data-color="63,107,169" style="background-color: rgb(63,107,169);"></a>
+<a href="#" class="color" data-color="216,162,67" style="background-color: rgb(216,162,67);"></a>
+</div>
+<h3><a href="snippets.html" target="_blank"><span class="lnr lnr-code"></span> Code Snippets</a></h3>
+<h3><a href="#" target="_blank"><span class="lnr lnr-cart"></span> Purchase</a></h3>
+</form>
+</div>
 
-#page_1 {position:relative; overflow: hidden;margin: 93px 0px 146px 119px;padding: 0px;border: none;width: 676px;height: 884px;}
+<nav>
+<button class="open-menu">Menu</button>
+<ul class="menu">
+<li><a href="#about-me">About Me</a></li>
+<li><a href="#experience-education">Experience & Education</a></li>
+<li><a href="#skills-knowledge">Skills & Knowledge</a></li>
+<li><a href="#portfolio">Portfolio</a></li>
+<li><a href="#design-process">Design Process</a></li>
+<li><a href="#pricing">Pricing</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+<section id="hero" class="section-hero">
+<div class="hero-slides owl-carousel owl-theme">
+<div class="slide"><img class="img-as-bg" src="img/startup/80_demo.jpg" alt=""></div>
+<div class="slide"><img class="img-as-bg" src="img/startup/83_demo.jpg" alt=""></div>
+<div class="slide"><img class="img-as-bg" src="img/startup/90_demo.jpg" alt=""></div>
+</div>
+<svg class="hero-triangles" viewBox="0 0 263.07 394.61" preserveAspectRatio="xMinYMax meet">
+<polygon class="primary-triangle" points="0 394.61 0 0 263.07 263.07 131.53 394.61 0 394.61" />
+<polygon class="gray-triangle" points="0 394.61 0 263.07 131.53 394.61 0 394.61" />
+<polygon class="gray-triangle" points="131.53 394.61 197.3 328.84 263.07 394.61 131.53 394.61" />
+</svg>
+<h1>Anthony Jordan</h1>
+<div class="titles">
+<ul class="texts">
+<li>User Experience Designer</li>
+<li>WordPress Theme Developer</li>
+<li>Part-Time Farmer</li>
+</ul>
+</div>
+<div class="btm">
+<div class="left">
+<div class="scroll-down-indicator">
+<div class="down-arrow"></div>
+<div class="down-arrow"></div>
+<div class="down-arrow"></div>
+</div>
+</div>
+<div class="right">
+<ul class="connect">
+<li><a href="#"><span class="icon-facebook"></span></a></li>
+<li><a href="#"><span class="icon-twitter"></span></a></li>
+<li><a href="#"><span class="icon-linkedin"></span></a></li>
+<li><a href="#"><span class="icon-dribbble"></span></a></li>
+</ul>
+<a href="#" class="btn">Download Resume</a>
+</div>
+</div>
+</section>
+<section id="about-me" class="section-about-me flex-responsive">
+<svg class="triangle" viewBox="0 0 100 100" preserveAspectRatio="xMaxYMin meet">
+<path d="M0 0 L100 0 L100 100 Z" />
+</svg>
+<div class="profile-pic">
+<div class="photo-container">
+<img class="img-as-bg" src="img/startup/72_demo.jpg" alt="">
+</div>
+</div>
+<div class="details">
+<ul class="animation-chain" data-animation="fadeInUp">
+<li>
+<span class="field-title">Name</span>
+<span class="field-content">Anthony Jordan</span>
+</li>
+<li>
+<span class="field-title">Birthday</span>
+<span class="field-content">Sep 19, 1999</span>
+</li>
+<li>
+<span class="field-title">Email</span>
+<span class="field-content"><a href="/cdn-cgi/l/email-protection#600518010d100c05200518010d100c054e030f0d"><span class="__cf_email__" data-cfemail="c5a0bda4a8b5a9a085a0bda4a8b5a9a0eba6aaa8">[email&#160;protected]</span></a></span>
+</li>
+<li>
+<span class="field-title">Mobile</span>
+<span class="field-content">123-456-7890</span>
+</li>
+<li>
+<span class="field-title">Address</span>
+<span class="field-content">12/F, 999 Jordan Road, Hong Kong</span>
+</li>
+</ul>
+<div class="intro">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore natus quae vero cum neque, odio sit commodi enim, optio similique iure exercitationem dolorum nesciunt quidem reiciendis excepturi dolorem culpa, laboriosam.</p>
+</div>
+</div>
+</section>
+<section id="experience-education" class="section-experience-education bgPrimaryColor">
+<svg class="holes" viewBox="0 0 1189 22" preserveAspectRatio="xMinYMin meet"><circle class="cls-1" cx="37.15" cy="11" r="11" /><circle class="cls-1" cx="74.31" cy="11" r="11" /><circle class="cls-1" cx="111.46" cy="11" r="11" /><circle class="cls-1" cx="148.61" cy="11" r="11" /><circle class="cls-1" cx="185.77" cy="11" r="11" /><circle class="cls-1" cx="222.92" cy="11" r="11" /><circle class="cls-1" cx="260.07" cy="11" r="11" /><circle class="cls-1" cx="297.23" cy="11" r="11" /><circle class="cls-1" cx="334.38" cy="11" r="11" /><circle class="cls-1" cx="371.54" cy="11" r="11" /><circle class="cls-1" cx="408.69" cy="11" r="11" /><circle class="cls-1" cx="445.84" cy="11" r="11" /><circle class="cls-1" cx="483" cy="11" r="11" /><circle class="cls-1" cx="520.15" cy="11" r="11" /><circle class="cls-1" cx="557.3" cy="11" r="11" /><circle class="cls-1" cx="594.46" cy="11" r="11" /><circle class="cls-1" cx="631.61" cy="11" r="11" /><circle class="cls-1" cx="668.76" cy="11" r="11" /><circle class="cls-1" cx="705.92" cy="11" r="11" /><circle class="cls-1" cx="743.07" cy="11" r="11" /><circle class="cls-1" cx="780.22" cy="11" r="11" /><circle class="cls-1" cx="817.38" cy="11" r="11" /><circle class="cls-1" cx="854.53" cy="11" r="11" /><circle class="cls-1" cx="891.69" cy="11" r="11" /><circle class="cls-1" cx="928.84" cy="11" r="11" /><circle class="cls-1" cx="965.99" cy="11" r="11" /><circle class="cls-1" cx="1003.15" cy="11" r="11" /><circle class="cls-1" cx="1040.3" cy="11" r="11" /><circle class="cls-1" cx="1077.45" cy="11" r="11" /><circle class="cls-1" cx="1114.61" cy="11" r="11" /><circle class="cls-1" cx="1151.76" cy="11" r="11" /><path class="cls-1" d="M1253,389a11,11,0,0,0,0,22V389Z" transform="translate(-64 -389)" /><path class="cls-1" d="M64,389v22A11,11,0,0,0,64,389Z" transform="translate(-64 -389)" /></svg>
+<h2>Experience & Education</h2>
+<ul class="timeline">
+<li>
+<div class="icon"><img src="img/suitcase.svg" alt=""></div>
+<div class="animation-chain overflow-hidden" data-animation='fadeInLeft'>
+<h3>UI / UX Designer</h3>
+<h4>Amazing Design</h4>
+<div class="date">Aug 2007 - Now</div>
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta exercitationem nam perferendis tempora eius repellat expedita numquam, beatae eaque nihil? Aliquam architecto voluptatum provident animi, excepturi fugit ut! Impedit, eum!</p>
+</li>
+<li>
+<div class="icon"><img src="img/suitcase.svg" alt=""></div>
+<div class="animation-chain overflow-hidden" data-animation='fadeInRight'>
+<h3>Front-End Web Developer</h3>
+<h4>AudioJungle</h4>
+<div class="date">Aug 2007 - Jan 2010</div>
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id error atque debitis tempora soluta, modi voluptatum sunt optio, ut quidem quam dolore. Unde minus quasi consequuntur consequatur, tempore repudiandae aperiam?</p>
+</li>
+<li>
+<div class="icon"><img src="img/cap.svg" alt=""></div>
+<div class="animation-chain overflow-hidden" data-animation='fadeInLeft'>
+<h3>Professional Diploma in Graphic Design </h3>
+<h4>Beautiful College</h4>
+<div class="date">Sep 2012 - Aug 2013</div>
+</div>
+</li>
+<li>
+<div class="icon"><img src="img/cap.svg" alt=""></div>
+<div class="animation-chain overflow-hidden" data-animation='fadeInRight'>
+<h3>Master of Engineering in Computer Engineering</h3>
+<h4>Fantastic University</h4>
+<div class="date">Sep 2010 - Aug 2012</div>
+</div>
+<p>Thesis: Nulla, Omnis Vitae Illum Molestiae Rem<br>GPA: 4.0</p>
+</li>
+<li>
+<div class="icon"><img src="img/suitcase.svg" alt=""></div>
+<div class="animation-chain overflow-hidden" data-animation='fadeInLeft'>
+<h3>Back-End Web Developer</h3>
+<h4>PhotoDune</h4>
+<div class="date">Aug 2007 - Jan 2010</div>
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id error atque debitis tempora soluta, modi voluptatum sunt optio, ut quidem quam dolore. Unde minus quasi consequuntur consequatur, tempore repudiandae aperiam?</p>
+</li>
+<li>
+<div class="icon"><img src="img/cap.svg" alt=""></div>
+<div class="animation-chain overflow-hidden" data-animation='fadeInRight'>
+<h3>Bachelor of Engineering in Computer Science</h3>
+<h4>Incredible University</h4>
+<div class="date">Aug 2005 - Aug 2009</div>
+</div>
+<p>First-class honors<br>GPA: 4.33</p>
+</li>
+</ul>
+<svg class="waves" viewBox="0 0 1149 39.29" preserveAspectRation="none"><path d="M66,378.29v9a49.32,49.32,0,0,1,35.26,14.58l1.05,1.1A50.12,50.12,0,0,0,173,403l1.09-1.1a50.14,50.14,0,0,1,70.7,0l1.1,1.1a50.15,50.15,0,0,0,70.71,0l1.1-1.1a50.15,50.15,0,0,1,70.71,0l1.1,1.1a50.15,50.15,0,0,0,70.71,0l1.1-1.1a50.15,50.15,0,0,1,70.71,0l1.1,1.1a50.15,50.15,0,0,0,70.71,0l1.1-1.1a50.15,50.15,0,0,1,70.71,0l1.1,1.1a50.15,50.15,0,0,0,70.71,0l1.1-1.1a50.15,50.15,0,0,1,70.71,0l1.1,1.1a50.15,50.15,0,0,0,70.71,0l1.1-1.1a50.15,50.15,0,0,1,70.71,0L964,403a50.15,50.15,0,0,0,70.71,0l1.1-1.1a50.15,50.15,0,0,1,70.71,0l1.1,1.1a50.15,50.15,0,0,0,70.71,0l1.2-1.1A49.75,49.75,0,0,1,1215,387.33v-9H66Z" transform="translate(-66 -378.29)" /></svg>
+</section>
+<section id="skills-knowledge" class="section-skills-knowledge bgLightGray">
+<div class="triangle"></div>
+<h2>Skills & Knowledge</h2>
+<div class="row">
+<div class="col-md-3 col-sm-6">
+<div class="skill-icon animation-chain" data-animation="zoomIn">
+<span class="lnr lnr-layers"></span>
 
-#page_1 #p1dimg1 {position:absolute;top:93px;left:0px;z-index:-1;width:549px;height:791px;}
-#page_1 #p1dimg1 #p1img1 {width:549px;height:791px;}
+
+</div>
+<h3>Visual Design</h3>
+<ul>
+<li>Typography<span class="highlight">Advanced</span></li>
+<li>Layout Design</li>
+<li>Color Theory</li>
+<li>Adobe Photoshop<span class="highlight">Advanced</span></li>
+<li>Adobe Illustrator</li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6">
+<div class="skill-icon animation-chain" data-animation="zoomIn">
+<span class="lnr lnr-laptop-phone"></span>
 
 
+</div>
+<h3>Front-End Development</h3>
+<ul>
+<li>HTML5</li>
+<li>CSS3<span class="highlight">Advanced</span></li>
+<li>JavaScript</li>
+<li>jQuery</li>
+<li>React.js</li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6">
+<div class="skill-icon animation-chain" data-animation="zoomIn">
+<span class="lnr lnr-keyboard"></span>
 
 
-#page_2 {position:relative; overflow: hidden;margin: 93px 0px 188px 125px;padding: 0px;border: none;width: 670px;}
-#page_2 #id_1 {border:none;margin: 0px 0px 0px 0px;padding: 0px;border:none;width: 670px;overflow: hidden;}
-#page_2 #id_2 {border:none;margin: 13px 0px 0px 0px;padding: 0px;border:none;width: 670px;overflow: hidden;}
-
-#page_2 #p2dimg1 {position:absolute;top:26px;left:1px;z-index:-1;width:542px;height:792px;}
-#page_2 #p2dimg1 #p2img1 {width:542px;height:792px;}
-
-
-
-
-.ft0{font: 32px 'Arial';color: #00000a;line-height: 36px;}
-.ft1{font: 19px 'Arial';color: #00000a;line-height: 22px;}
-.ft2{font: 13px 'Arial';color: #00000a;line-height: 16px;}
-.ft3{font: 12px 'Arial';color: #00000a;line-height: 16px;}
-.ft4{font: 12px 'Arial';text-decoration: underline;color: #0000ff;line-height: 16px;}
-.ft5{font: 12px 'Arial';text-decoration: underline;color: #003399;line-height: 16px;}
-.ft6{font: 12px 'Arial';color: #0000ff;line-height: 16px;}
-.ft7{font: 11px 'Arial';color: #00000a;line-height: 19px;}
-.ft8{font: 13px 'Arial';color: #00000a;line-height: 14px;}
-.ft9{font: 11px 'Arial';color: #00000a;line-height: 14px;}
-.ft10{font: 13px 'Arial';color: #00000a;line-height: 15px;}
-.ft11{font: 12px 'Arial';color: #00000a;line-height: 17px;}
-.ft12{font: 7px 'Arial';color: #00000a;line-height: 7px;}
-.ft13{font: 13px 'Arial';color: #00000a;margin-left: 10px;line-height: 16px;}
-
-.p0{text-align: left;padding-left: 208px;margin-top: 0px;margin-bottom: 0px;}
-.p1{text-align: left;padding-left: 6px;margin-top: 30px;margin-bottom: 0px;}
-.p2{text-align: left;padding-left: 40px;margin-top: 14px;margin-bottom: 0px;}
-.p3{text-align: left;padding-left: 125px;padding-right: 238px;margin-top: 0px;margin-bottom: 0px;text-indent: -3px;}
-.p4{text-align: left;padding-left: 128px;padding-right: 304px;margin-top: 1px;margin-bottom: 0px;text-indent: 7px;}
-.p5{text-align: left;padding-left: 6px;margin-top: 12px;margin-bottom: 0px;}
-.p6{text-align: left;padding-left: 6px;padding-right: 121px;margin-top: 15px;margin-bottom: 0px;}
-.p7{text-align: left;padding-left: 6px;margin-top: 46px;margin-bottom: 0px;}
-.p8{text-align: left;padding-left: 109px;padding-right: 402px;margin-top: 15px;margin-bottom: 0px;text-indent: -71px;}
-.p9{text-align: left;padding-left: 109px;padding-right: 142px;margin-top: 15px;margin-bottom: 0px;text-indent: -72px;}
-.p10{text-align: left;padding-left: 109px;padding-right: 185px;margin-top: 15px;margin-bottom: 0px;text-indent: -71px;}
-.p11{text-align: left;padding-left: 6px;margin-top: 13px;margin-bottom: 0px;}
-.p12{text-align: left;padding-left: 31px;margin-top: 12px;margin-bottom: 0px;}
-.p13{text-align: left;padding-left: 187px;margin-top: 0px;margin-bottom: 0px;}
-.p14{text-align: left;padding-left: 91px;margin-top: 0px;margin-bottom: 0px;}
-.p15{text-align: left;padding-left: 68px;margin-top: 0px;margin-bottom: 0px;}
-.p16{text-align: left;padding-left: 99px;padding-right: 96px;margin-top: 3px;margin-bottom: 0px;text-indent: 1px;}
-.p17{text-align: left;padding-left: 6px;margin-top: 32px;margin-bottom: 0px;}
-.p18{text-align: left;padding-left: 99px;padding-right: 124px;margin-top: 2px;margin-bottom: 0px;text-indent: 2px;}
-.p19{text-align: left;padding-left: 6px;margin-top: 27px;margin-bottom: 0px;}
-.p20{text-align: left;padding-left: 102px;padding-right: 116px;margin-top: 2px;margin-bottom: 0px;}
-.p21{text-align: left;margin-top: 0px;margin-bottom: 0px;}
-.p22{text-align: left;margin-top: 14px;margin-bottom: 0px;}
-.p23{text-align: left;padding-left: 98px;padding-right: 186px;margin-top: 3px;margin-bottom: 0px;}
-.p24{text-align: left;padding-left: 4px;margin-top: 14px;margin-bottom: 0px;}
-.p25{text-align: left;padding-left: 98px;margin-top: 3px;margin-bottom: 0px;}
-.p26{text-align: left;padding-left: 8px;margin-top: 19px;margin-bottom: 0px;}
-.p27{text-align: left;margin-top: 28px;margin-bottom: 0px;}
-.p28{text-align: left;padding-left: 26px;margin-top: 13px;margin-bottom: 0px;}
-.p29{text-align: left;padding-left: 26px;margin-top: 0px;margin-bottom: 0px;}
-.p30{text-align: left;padding-left: 68px;padding-right: 196px;margin-top: 0px;margin-bottom: 0px;text-indent: -42px;}
-.p31{text-align: left;padding-left: 8px;padding-right: 192px;margin-top: 0px;margin-bottom: 0px;text-indent: 17px;}
-.p32{text-align: left;margin-top: 29px;margin-bottom: 0px;}
-.p33{text-align: left;padding-left: 8px;margin-top: 15px;margin-bottom: 0px;}
-.p34{text-align: left;padding-left: 61px;padding-right: 187px;margin-top: 14px;margin-bottom: 0px;text-indent: -52px;}
-.p35{text-align: left;padding-left: 25px;margin-top: 0px;margin-bottom: 0px;}
-.p36{text-align: left;margin-top: 13px;margin-bottom: 0px;}
-.p37{text-align: left;padding-left: 28px;margin-top: 16px;margin-bottom: 0px;}
-.p38{text-align: left;padding-left: 28px;margin-top: 1px;margin-bottom: 0px;}
-.p39{text-align: left;padding-left: 28px;margin-top: 2px;margin-bottom: 0px;}
-.p40{text-align: left;padding-left: 19px;margin-top: 14px;margin-bottom: 0px;}
-.p41{text-align: left;padding-left: 15px;margin-top: 1px;margin-bottom: 0px;}
+</div>
+<h3>WordPress Development</h3>
+<ul>
+<li></li>
+<li>PHP</li>
+<li>SQL</li>
+<li>WordPress API<span class="highlight">Advanced</span></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6">
+<div class="skill-icon animation-chain" data-animation="zoomIn">
+<span class="lnr lnr-users"></span>
 
 
+</div>
+<h3>User Research</h3>
+<ul>
+<li>Survey</li>
+<li>Interview</li>
+<li>Speed Dating</li>
+<li>Think Alouds</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="portfolio" class="section-portfolio">
+<div class="portfolio-overlay">
+<div class="portfolio-modal">
+<ul class="modal-nav">
+<li><a href="#" class="modal-nav-prev"><span class="lnr lnr-chevron-left"></span></a></li>
+<li><a href="#" class="modal-nav-next"><span class="lnr lnr-chevron-right"></span></a></li>
+<li class="enabled"><a href="#" class="modal-nav-close"><span class="lnr lnr-cross"></span></a></li>
+</ul>
+<div class="overflow-wrapper">
+<div class="modal-main flex-responsive">
+<div class="right"></div>
+<div class="left"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4 col-sm-12">
+<h2>Portfolio</h2>
+</div>
+<div class="col-md-8 col-sm-12">
+<ul class="portfolio-cats">
+<li><a href="#" data-cat="*" class="current">All</a></li>
+<li><a href="#" data-cat="document-design">Document Design</a></li>
+<li><a href="#" data-cat="web-design">Web Design</a></li>
+<li><a href="#" data-cat="photography">Photography</a></li>
+<li><a href="#" data-cat="interaction-design">Interaction Design</a></li>
+</ul>
+</div>
+</div>
+<div class="grid animation-chain" data-animation="zoomIn">
+<div class="grid-item document-design">
+<img src="img/portfolio/s1.jpg" alt="">
+<a class="portfolio-open-modal" href="#"><span class="lnr lnr-magnifier"></span></a>
+<a class="portfolio-external-link" href="http://www.google.com" target="_blank"><span class="lnr lnr-link"></span></a>
+<div class="portfolio-hidden">
+<ul class="image-list">
+<li><img data-src="img/portfolio/s1.jpg" src="img/blank.png" alt=""></li>
+<li><img data-src="img/portfolio/s4.jpg" src="img/blank.png" alt=""></li>
+<li><img data-src="img/portfolio/s8.jpg" src="img/blank.png" alt=""></li>
+</ul>
+<ul class="portfolio-info">
+<li>
+<h3>Project</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+</li>
+<li>
+<h3>Client</h3>
+<p>ABC Company</p>
+</li>
+<li>
+<h3>Skills</h3>
+ <p>Visual design, user research</p>
+</li>
+<li>
+<a href="http://www.google.com" class="btn" target="_blank">Visit Website</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-item web-design">
+<img src="img/portfolio/s2.jpg" alt="">
+<a class="portfolio-open-modal" href="#"><span class="lnr lnr-magnifier"></span></a>
+<a class="portfolio-external-link" href="http://www.google.com" target="_blank"><span class="lnr lnr-link"></span></a>
+<div class="portfolio-hidden">
+<ul class="video">
+<li><iframe data-src="https://player.vimeo.com/video/24456787" width="640" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>
+</ul>
+<ul class="portfolio-info">
+<li>
+<h3>Project</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+</li>
+<li>
+<h3>Client</h3>
+<p>ABC Company</p>
+</li>
+<li>
+<h3>Skills</h3>
+<p>Visual design, user research</p>
+</li>
+<li>
+<a href="http://www.google.com" class="btn" target="_blank">Visit Website</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-item interaction-design">
+<img src="img/portfolio/s3.jpg" alt="">
+<a class="portfolio-open-modal" href="#"><span class="lnr lnr-magnifier"></span></a>
+<a class="portfolio-external-link" href="http://www.google.com" target="_blank"><span class="lnr lnr-link"></span></a>
+<div class="portfolio-hidden">
+<ul class="video">
+<li><iframe width="560" height="315" data-src="http://www.youtube.com/embed/5aOSxep4ni0?rel=0&showinfo=0&autohide=1&modestbranding=1" allowfullscreen></iframe></li>
+</ul>
+<ul class="portfolio-info">
+<li>
+<h3>Project</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+</li>
+<li>
+<h3>Client</h3>
+<p>ABC Company</p>
+</li>
+<li>
+<h3>Skills</h3>
+<p>Visual design, user research</p>
+</li>
+<li>
+<a href="http://www.google.com" class="btn" target="_blank">Visit Website</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-item photography">
+<img src="img/portfolio/s4.jpg" alt="">
+<a class="portfolio-open-modal" href="#"><span class="lnr lnr-magnifier"></span></a>
+<a class="portfolio-external-link" href="http://www.google.com" target="_blank"><span class="lnr lnr-link"></span></a>
+<div class="portfolio-hidden">
+<ul class="video">
+<li><iframe width="560" height="315" data-src="http://www.youtube.com/embed/_386pjKgfM8?rel=0&showinfo=0&autohide=1&modestbranding=1" allowfullscreen></iframe></li>
+</ul>
+<ul class="portfolio-info">
+<li>
+<h3>Project</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+</li>
+<li>
+<h3>Client</h3>
+<p>ABC Company</p>
+</li>
+<li>
+<h3>Skills</h3>
+<p>Visual design, user research</p>
+</li>
+<li>
+<a href="http://www.google.com" class="btn" target="_blank">Visit Website</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-item document-design">
+<img src="img/portfolio/s5.jpg" alt="">
+<a class="portfolio-open-modal" href="#"><span class="lnr lnr-magnifier"></span></a>
+<a class="portfolio-external-link" href="http://www.google.com" target="_blank"><span class="lnr lnr-link"></span></a>
+<div class="portfolio-hidden">
+<ul class="image-list">
+<li><img data-src="img/portfolio/s5.jpg" src="img/blank.png" class="img-vertical" alt=""></li>
+<li><img data-src="img/portfolio/s2.jpg" src="img/blank.png" alt=""></li>
+<li><img data-src="img/portfolio/s6.jpg" src="img/blank.png" class="img-vertical" alt=""></li>
+</ul>
+<ul class="portfolio-info">
+<li>
+<h3>Project</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+</li>
+<li>
+<h3>Client</h3>
+<p>ABC Company</p>
+</li>
+<li>
+<h3>Skills</h3>
+<p>Visual design, user research</p>
+</li>
+<li>
+<a href="http://www.google.com" class="btn" target="_blank">Visit Website</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-item photography">
+<img src="img/portfolio/s6.jpg" alt="">
+<a class="portfolio-open-modal" href="#"><span class="lnr lnr-magnifier"></span></a>
+<a class="portfolio-external-link" href="http://www.google.com" target="_blank"><span class="lnr lnr-link"></span></a>
+<div class="portfolio-hidden">
+<ul class="video">
+<li><iframe data-src="https://player.vimeo.com/video/24456787" width="640" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></li>
+</ul>
+<ul class="portfolio-info">
+<li>
+<h3>Project</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+</li>
+<li>
+<h3>Client</h3>
+<p>ABC Company</p>
+</li>
+<li>
+<h3>Skills</h3>
+<p>Visual design, user research</p>
+</li>
+<li>
+<a href="http://www.google.com" class="btn" target="_blank">Visit Website</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-item interaction-design">
+<img src="img/portfolio/s7.jpg" alt="">
+<a class="portfolio-open-modal" href="#"><span class="lnr lnr-magnifier"></span></a>
+<a class="portfolio-external-link" href="http://www.google.com" target="_blank"><span class="lnr lnr-link"></span></a>
+<div class="portfolio-hidden">
+<ul class="video">
+<li><iframe width="560" height="315" data-src="http://www.youtube.com/embed/5aOSxep4ni0?rel=0&showinfo=0&autohide=1&modestbranding=1" allowfullscreen></iframe></li>
+</ul>
+<ul class="portfolio-info">
+<li>
+<h3>Project</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+</li>
+<li>
+<h3>Client</h3>
+<p>ABC Company</p>
+</li>
+<li>
+<h3>Skills</h3>
+<p>Visual design, user research</p>
+</li>
+<li>
+<a href="http://www.google.com" class="btn" target="_blank">Visit Website</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="grid-item web-design">
+<img src="img/portfolio/s8.jpg" alt="">
+<a class="portfolio-open-modal" href="#"><span class="lnr lnr-magnifier"></span></a>
+<a class="portfolio-external-link" href="http://www.google.com" target="_blank"><span class="lnr lnr-link"></span></a>
+<div class="portfolio-hidden">
+<ul class="image-list">
+<li><img data-src="img/portfolio/s8.jpg" src="img/blank.png" alt=""></li>
+<li><img data-src="img/portfolio/s3.jpg" src="img/blank.png" alt=""></li>
+<li><img data-src="img/portfolio/s7.jpg" src="img/blank.png" alt=""></li>
+</ul>
+<ul class="portfolio-info">
+<li>
+<h3>Project</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+</li>
+<li>
+<h3>Client</h3>
+<p>ABC Company</p>
+</li>
+<li>
+<h3>Skills</h3>
+<p>Visual design, user research</p>
+</li>
+<li>
+<a href="http://www.google.com" class="btn" target="_blank">Visit Website</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="testimonials" class="section-testimonials">
+<div class="owl-carousel owl-theme">
+<div class="testimonial flex-responsive">
+<div class="quote bgPrimaryColor">
+<blockquote>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus assumenda culpa, aliquam dolore quos, explicabo eos id alias nihil! Esse, labore voluptatem sunt nisi a blanditiis aperiam veritatis voluptas animi.
+</blockquote>
+ </div>
+<div class="person bgLightGray">
+<div class="profile-pic">
+<img src="https://randomuser.me/api/portraits/men/64.jpg" alt="" class="profile-pic">
+</div>
+<div class="info">
+<p class="name">Larry Hernandez</p>
+<p class="organization">Amazing Design</p>
+</div>
+</div>
+</div>
+<div class="testimonial flex-responsive">
+<div class="quote bgPrimaryColor">
+<blockquote>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus assumenda culpa, aliquam dolore quos, explicabo eos id alias nihil! Esse, labore voluptatem sunt nisi a blanditiis aperiam veritatis voluptas animi.
+</blockquote>
+</div>
+<div class="person bgLightGray">
+<div class="profile-pic">
+<img src="https://randomuser.me/api/portraits/women/26.jpg" alt="">
+</div>
+<div class="info">
+<p class="name">Ruby Rodriguez</p>
+<p class="organization">Fantastic Company</p>
+</div>
+</div>
+</div>
+<div class="testimonial flex-responsive">
+<div class="quote bgPrimaryColor">
+<blockquote>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus assumenda culpa, aliquam dolore quos, explicabo eos id alias nihil! Esse, labore voluptatem sunt nisi a blanditiis aperiam veritatis voluptas animi.
+</blockquote>
+</div>
+<div class="person bgLightGray">
+<div class="profile-pic">
+<img src="https://randomuser.me/api/portraits/men/57.jpg" alt="" class="profile-pic">
+</div>
+<div class="info">
+<p class="name">Danny Rose</p>
+<p class="organization">Incredible Design</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="design-process" class="section-design-process">
+<h2>Design Process</h2>
+<ul class="procedure flex-responsive">
+<li>
+<svg class="process-line" viewBox="0 0 208 105" preserveAspectRatio="xMinYMin meet"><path stroke-width="1.5" d="M433,322.81q3.06,0,6,.12" transform="translate(-433.03 -322.31)" /><path stroke-width="1.5" d="M451,323.93c82.73,10.74,91.74,95.21,178,102.39" transform="translate(-433.03 -322.31)" /><path stroke-width="1.5" d="M635,426.69q2.94,0.12,6,.12" transform="translate(-433.03 -322.31)" /></svg>
+<svg class="process-line" viewBox="0 0 208 105" preserveAspectRatio="xMinYMax meet"><path stroke-width="1.5" d="M433,322.81q3.06,0,6,.12" transform="translate(-433.03 -322.31)" /><path stroke-width="1.5" d="M451,323.93c82.73,10.74,91.74,95.21,178,102.39" transform="translate(-433.03 -322.31)" /><path stroke-width="1.5" d="M635,426.69q2.94,0.12,6,.12" transform="translate(-433.03 -322.31)" /></svg>
+<div class="process-main">
+<div class="process-icon">
+<img src="img/demo/research.svg" alt="">
 
 
-</STYLE>
-</HEAD>
-
-<BODY>
-<DIV id="page_1">
-<DIV id="p1dimg1">
-<IMG src="data:image/jpg;base64,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8Ht7/wDHq6CigDn/APhDdL/5+tc/8Ht7/wDHqP8AhDdL/wCfrXP/AAe3v/x6ugooA5//AIQ3S/8An61z/wAHt7/8eo/4Q3S/+frXP/B7e/8Ax6ugooA5/wD4Q3S/+frXP/B7e/8Ax6j/AIQ3S/8An61z/wAHt7/8eroKKAOf/wCEN0v/AJ+tc/8AB7e//HqK6CigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAKepWU99brFb6nd6e4cMZbVYmYjB+U+YjjHOemeBz1zl/8I9qn/Q565/35sv8A5HroKKAOf/4R7VP+hz1z/vzZf/I9H/CPap/0Oeuf9+bL/wCR66CigDn/APhHtU/6HPXP+/Nl/wDI9H/CPap/0Oeuf9+bL/5HroKKAOf/AOEe1T/oc9c/782X/wAj0f8ACPap/wBDnrn/AH5sv/keugooA5//AIR7VP8Aoc9c/wC/Nl/8j0f8I9qn/Q565/35sv8A5HroKKAOf/4R7VP+hz1z/vzZf/I9H/CPap/0Oeuf9+bL/wCR66CigDn/APhHtU/6HPXP+/Nl/wDI9H/CPap/0Oeuf9+bL/5HroKKAOf/AOEe1T/oc9c/782X/wAj0f8ACPap/wBDnrn/AH5sv/keugooA5//AIR7VP8Aoc9c/wC/Nl/8j0f8I9qn/Q565/35sv8A5HroKKAOf/4R7VP+hz1z/vzZf/I9H/CPap/0Oeuf9+bL/wCR66CigDn/APhHtU/6HPXP+/Nl/wDI9H/CPap/0Oeuf9+bL/5HroKKAOf/AOEe1T/oc9c/782X/wAj0f8ACPap/wBDnrn/AH5sv/keugooA5//AIR7VP8Aoc9c/wC/Nl/8j0f8I9qn/Q565/35sv8A5HroKKAOf/4R7VP+hz1z/vzZf/I9H/CPap/0Oeuf9+bL/wCR66CigDn/APhHtU/6HPXP+/Nl/wDI9H/CPap/0Oeuf9+bL/5HroKKAOf/AOEe1T/oc9c/782X/wAj0f8ACPap/wBDnrn/AH5sv/keugooA5//AIR7VP8Aoc9c/wC/Nl/8j0f8I9qn/Q565/35sv8A5HroKKAOf/4R7VP+hz1z/vzZf/I9H/CPap/0Oeuf9+bL/wCR66Ci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AFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFRzxtNbyxJNJA7oVWWMKWQkfeG4EZH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O/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qj/AITvwf8A9DXof/gxh/8Aiq6CigDn/wDhO/B//Q16H/4MYf8A4qiugooAKKKKACiiigAooooAKKKKACiiigArL1/UptK06K4gWNne9tLchwSNstxHEx4I52uSPfHXpWpXP+Mv+QHbf9hXTf8A0thoA6CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArn/GX/IDtv8AsK6b/wClsNdBXP8AjL/kB23/AGFdN/8AS2GgDoKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACuf8AGX/IDtv+wrpv/pbDXQVz/jL/AJAdt/2FdN/9LYaAOgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK5/xl/wAgO2/7Cum/+lsNdBUc0ENygSeKOVA6uFdQwDKwZTz3DAEHsQDQBJRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUVXvb630+BZrqTy42ljhB2k5eR1jQcerMo9s88UAWKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACuf8Zf8gO2/wCwrpv/AKWw10Fc/wCMv+QHbf8AYV03/wBLYaAOgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK5/wAZf8gO2/7Cum/+lsNdBXP+Mv8AkB23/YV03/0thoA6CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArn/GX/ACA7b/sK6b/6Ww10Fc/4y/5Adt/2FdN/9LYaAOgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKy9f02bVdOit4GjV0vbS4JckDbFcRysOAedqED3x061qUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFZev6lNpWnRXECxs73tpbkOCRtluI4mPBHO1yR7469K1K5/xl/wAgO2/7Cum/+lsNAHQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFc/4y/5Adt/2FdN/9LYa6Cuf8Zf8gO2/7Cum/wDpbDQB0FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXP+Mv+QHbf9hXTf8A0throK5/xl/yA7b/ALCum/8ApbDQB0FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABWP4lsbjUNKghtY/MkXULKYjcBhI7qKRzz6KrH3xxzRRQBsUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH//Z" id="p1img1"></DIV>
-
-
-<P class="p0 ft0">Gaurav</P>
-<P class="p1 ft1">Personal Data</P>
-<P class="p2 ft2">Place and Date of Birth: New Delhi | 18 jul 1996</P>
-<P class="p3 ft2">Address: <NOBR>WZ-217,</NOBR> Basai Darapur,New <NOBR>Delhi-110015</NOBR> (India) Mobile: +91 7836078381</P>
-<P class="p4 ft6"><SPAN class="ft3">email: </SPAN><A href="mailto:gchauhan8726@gmail.com"><SPAN class="ft4">gchauhan8726@gmail.co</SPAN></A><A href="mailto:gchauhan8726@gmail.com"><SPAN class="ft5">m</SPAN></A><SPAN class="ft3"> Branch: Computer Science and Engineering</SPAN></P>
-<P class="p5 ft1">Objective</P>
-<P class="p6 ft7">To join an organization <NOBR>offering-challenging</NOBR> environment, chance to enhance skills provided with opportunities of growth through the right mix of challenge, exposure, career development and security.</P>
-<P class="p7 ft1">Education and Qualification</P>
-<P class="p8 ft2"><NOBR>2013-2017:</NOBR> B.tech from University of Delhi cgpa: 7.67/10</P>
-<P class="p9 ft2">2011- 2013: Intermediate exams(U.P Board) from Saraswati Vidya Mandir,Hasanpur, Percent: 90.8</P>
-<P class="p10 ft2">2010- 2011: High School Exams(U.P Board) From Saraswati Vidya Mandir,Hasanpur Percent: 76</P>
-<P class="p11 ft1">Computer Skills</P>
-<P class="p12 ft2">Programming Languages: C,CPP,Java,HTML,CSS,</P>
-<P class="p13 ft2">PHP</P>
-<P class="p14 ft8">Software Used: DBMS ,Networking,</P>
-<P class="p13 ft2">SQL,Android,MATLAB</P>
-<P class="p15 ft2">Operating systems: Windows,Linux (Ubuntu)</P>
-<P class="p11 ft1">Internship/Training</P>
-<P class="p11 ft2"><NOBR>Jan’17-Jul’17</NOBR> UI/UX Trainee</P>
-<P class="p16 ft2">UI/UX Trainee at fastread.in. This training was done during my academics. Here, I worked on HTML, CSS and PHP.</P>
-<P class="p17 ft2"><NOBR>Aug’17-Apr’18</NOBR> SQL TSE</P>
-<P class="p18 ft2">SQL, Technical Support Executive at Tick Softwares Limited. I have worked here to support an ERP’s Database using SQL Server through SQL queries.</P>
-<P class="p19 ft2"><NOBR>May’18-jul’18</NOBR> Drupal Developer Intern</P>
-<P class="p20 ft2">Drupal Developer Intern at OpenSense Labs. I learned here to build amazing websites using Drupal (a CMS framework of PHP).</P>
-</DIV>
-<DIV id="page_2">
-<DIV id="p2dimg1">
-<IMG src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAMXAh4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD1/wD4QTwf/wBCpof/AILof/iaP+EE8H/9Cpof/guh/wDia6CigDn/APhBPB//AEKmh/8Aguh/+Jo/4QTwf/0Kmh/+C6H/AOJroKKAOf8A+EE8H/8AQqaH/wCC6H/4mj/hBPB//QqaH/4Lof8A4mugooA5/wD4QTwf/wBCpof/AILof/iaP+EE8H/9Cpof/guh/wDia6CigDn/APhBPB//AEKmh/8Aguh/+Jo/4QTwf/0Kmh/+C6H/AOJroKKAOf8A+EE8H/8AQqaH/wCC6H/4mj/hBPB//QqaH/4Lof8A4mugqnpOpQ6zo1jqlusiwXtvHcRrIAGCuoYA4JGcH1NAGX/wgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQBz/wDwgng//oVND/8ABdD/APE0f8IJ4P8A+hU0P/wXQ/8AxNdBRQAUUUUAFFFFABRRRQAUUUUAFFFFABXP+BP+SeeGv+wVa/8Aopa6Cuf8Cf8AJPPDX/YKtf8A0UtAHQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVz/gT/AJJ54a/7BVr/AOilroK5/wADfJ4G0W2biaztEsp1/uTQjypFz3w6MMjg4yCRg0AdBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABXP+Df8AkB3P/YV1L/0tmroK5/wb/wAgO5/7Cupf+ls1AHQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVz/g3/kB3P/YV1L/0tmroKy9A02bStOlt52jZ3vbu4BQkjbLcSSqOQOdrgH3z160AalFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFY/hO+uNT8G6Hf3knmXV1p9vNM+0Dc7RqWOBwMknpQBsUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVz/gT/knnhr/sFWv/AKKWugrn/An/ACTzw1/2CrX/ANFLQB0FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFc/4M+Xw+8Q4jh1C+giQdI40u5URFHZVVVUAcAAAcCugrn/Bv/IDuf+wrqX/pbNQB0FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFYfhOCa20e4SeKSJzqd+4V1Kkq13MynnsVIIPcEGtyigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArP0bU/7XsZLnyfK2Xdzbbd27PkzPFuzgddmcds4561oVz/AIN/5Adz/wBhXUv/AEtmoA6CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACuf8ABv8AyA7n/sK6l/6WzV0Fc/4G+fwNoty3M15aJezt/fmmHmyNjtl3Y4HAzgADAoA6CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACuf8Cf8AJPPDX/YKtf8A0UtdBXP+BP8Aknnhr/sFWv8A6KWgDoKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4QTwf/0Kmh/+C6H/AOJo/wCEE8H/APQqaH/4Lof/AImgDoKK5/8A4Q3S/wDn61z/AMHt7/8AHqP+EN0v/n61z/we3v8A8eoA6Ciuf/4Q3S/+frXP/B7e/wDx6j/hDdL/AOfrXP8Awe3v/wAeoA6Ciuf/AOEN0v8A5+tc/wDB7e//AB6j/hDdL/5+tc/8Ht7/APHqAOgorn/+EN0v/n61z/we3v8A8eo/4Q3S/wDn61z/AMHt7/8AHqAOgorn/wDhDdL/AOfrXP8Awe3v/wAeo/4Q3S/+frXP/B7e/wDx6gDoKK5//hDdL/5+tc/8Ht7/APHqP+EN0v8A5+tc/wDB7e//AB6gDoKK5/8A4Q3S/wDn61z/AMHt7/8AHqP+EN0v/n61z/we3v8A8eoA6Ciuf/4Q3S/+frXP/B7e/wDx6j/hDdL/AOfrXP8Awe3v/wAeoA6Ciuf/AOEN0v8A5+tc/wDB7e//AB6j/hDdL/5+tc/8Ht7/APHqAOgorn/+EN0v/n61z/we3v8A8eo/4Q3S/wDn61z/AMHt7/8AHqAOgorn/wDhDdL/AOfrXP8Awe3v/wAeo/4Q3S/+frXP/B7e/wDx6gDoKK5//hDdL/5+tc/8Ht7/APHqP+EN0v8A5+tc/wDB7e//AB6gDoKK5/8A4Q3S/wDn61z/AMHt7/8AHqP+EN0v/n61z/we3v8A8eoA6Ciuf/4Q3S/+frXP/B7e/wDx6j/hDdL/AOfrXP8Awe3v/wAeoA6Ciuf/AOEN0v8A5+tc/wDB7e//AB6j/hDdL/5+tc/8Ht7/APHqAOgorn/+EN0v/n61z/we3v8A8eo/4Q3S/wDn61z/AMHt7/8AHqAOgorn/wDhDdL/AOfrXP8Awe3v/wAeo/4Q3S/+frXP/B7e/wDx6gDoKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgorn/+EE8H/wDQqaH/AOC6H/4mj/hBPB//AEKmh/8Aguh/+JoA6Ciuf/4QTwf/ANCpof8A4Lof/iaP+EE8H/8AQqaH/wCC6H/4mgDoKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgorn/+EE8H/wDQqaH/AOC6H/4mj/hBPB//AEKmh/8Aguh/+JoA6Ciuf/4QTwf/ANCpof8A4Lof/iaP+EE8H/8AQqaH/wCC6H/4mgDoKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgorn/+EE8H/wDQqaH/AOC6H/4mj/hBPB//AEKmh/8Aguh/+JoA6Ciuf/4QTwf/ANCpof8A4Lof/iaP+EE8H/8AQqaH/wCC6H/4mgDoKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgorn/+EE8H/wDQqaH/AOC6H/4mj/hBPB//AEKmh/8Aguh/+JoA6Ciuf/4QTwf/ANCpof8A4Lof/iaP+EE8H/8AQqaH/wCC6H/4mgDoKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgorn/+EE8H/wDQqaH/AOC6H/4mj/hBPB//AEKmh/8Aguh/+JoA6Ciuf/4QTwf/ANCpof8A4Lof/iaP+EE8H/8AQqaH/wCC6H/4mgDoKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgorn/+EE8H/wDQqaH/AOC6H/4mj/hBPB//AEKmh/8Aguh/+JoA6Ciuf/4QTwf/ANCpof8A4Lof/iaP+EE8H/8AQqaH/wCC6H/4mgDoKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgorn/+EE8H/wDQqaH/AOC6H/4mj/hBPB//AEKmh/8Aguh/+JoA6Ciuf/4QTwf/ANCpof8A4Lof/iaP+EE8H/8AQqaH/wCC6H/4mgDoKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgorn/+EE8H/wDQqaH/AOC6H/4mj/hBPB//AEKmh/8Aguh/+JoA6Ciuf/4QTwf/ANCpof8A4Lof/iaP+EE8H/8AQqaH/wCC6H/4mgDoKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgorn/+EE8H/wDQqaH/AOC6H/4mj/hBPB//AEKmh/8Aguh/+JoA6Ciuf/4QTwf/ANCpof8A4Lof/iaP+EE8H/8AQqaH/wCC6H/4mgDoKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgorn/+EE8H/wDQqaH/AOC6H/4mj/hBPB//AEKmh/8Aguh/+JoA6Ciuf/4QTwf/ANCpof8A4Lof/iaP+EE8H/8AQqaH/wCC6H/4mgDoKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgorn/+EE8H/wDQqaH/AOC6H/4mj/hBPB//AEKmh/8Aguh/+JoA6Ciuf/4QTwf/ANCpof8A4Lof/iaP+EE8H/8AQqaH/wCC6H/4mgDoKK5//hBPB/8A0Kmh/wDguh/+Jo/4QTwf/wBCpof/AILof/iaAOgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6Ciuf+x+MP8AoO6H/wCCab/5Ko+x+MP+g7of/gmm/wDkqgDoKK5/7H4w/wCg7of/AIJpv/kqj7H4w/6Duh/+Cab/AOSqAOgorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6Ciuf+x+MP8AoO6H/wCCab/5Ko+x+MP+g7of/gmm/wDkqgDoKK5/7H4w/wCg7of/AIJpv/kqj7H4w/6Duh/+Cab/AOSqAOgorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6Ciuf+x+MP8AoO6H/wCCab/5Ko+x+MP+g7of/gmm/wDkqgDoKK5/7H4w/wCg7of/AIJpv/kqj7H4w/6Duh/+Cab/AOSqAOgorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6Ciuf+x+MP8AoO6H/wCCab/5Ko+x+MP+g7of/gmm/wDkqgDoKK5/7H4w/wCg7of/AIJpv/kqj7H4w/6Duh/+Cab/AOSqAOgorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6Ciuf+x+MP8AoO6H/wCCab/5Ko+x+MP+g7of/gmm/wDkqgDoKK5/7H4w/wCg7of/AIJpv/kqj7H4w/6Duh/+Cab/AOSqAOgorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6Ciuf+x+MP8AoO6H/wCCab/5Ko+x+MP+g7of/gmm/wDkqgDoKK5/7H4w/wCg7of/AIJpv/kqj7H4w/6Duh/+Cab/AOSqAOgorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6Ciuf+x+MP8AoO6H/wCCab/5Ko+x+MP+g7of/gmm/wDkqgDoKK5/7H4w/wCg7of/AIJpv/kqj7H4w/6Duh/+Cab/AOSqAOgorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6Ciuf+x+MP8AoO6H/wCCab/5Ko+x+MP+g7of/gmm/wDkqgDoKK5/7H4w/wCg7of/AIJpv/kqj7H4w/6Duh/+Cab/AOSqAOgorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6Ciuf+x+MP8AoO6H/wCCab/5Ko+x+MP+g7of/gmm/wDkqgDoKK5/7H4w/wCg7of/AIJpv/kqj7H4w/6Duh/+Cab/AOSqAOgorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6Ciuf+x+MP8AoO6H/wCCab/5Ko+x+MP+g7of/gmm/wDkqgDoKK5/7H4w/wCg7of/AIJpv/kqj7H4w/6Duh/+Cab/AOSqAOgorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6Ciuf+x+MP8AoO6H/wCCab/5Ko+x+MP+g7of/gmm/wDkqgDoKK5/7H4w/wCg7of/AIJpv/kqj7H4w/6Duh/+Cab/AOSqAOgorn/sfjD/AKDuh/8Agmm/+SqPsfjD/oO6H/4Jpv8A5KoA6CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgorn/tnjD/AKAWh/8Ag5m/+RaPtnjD/oBaH/4OZv8A5FoA6Ciuf+2eMP8AoBaH/wCDmb/5Fo+2eMP+gFof/g5m/wDkWgDoKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgorn/tnjD/AKAWh/8Ag5m/+RaPtnjD/oBaH/4OZv8A5FoA6Ciuf+2eMP8AoBaH/wCDmb/5Fo+2eMP+gFof/g5m/wDkWgDoKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgorn/tnjD/AKAWh/8Ag5m/+RaPtnjD/oBaH/4OZv8A5FoA6Ciuf+2eMP8AoBaH/wCDmb/5Fo+2eMP+gFof/g5m/wDkWgDoKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgorn/tnjD/AKAWh/8Ag5m/+RaPtnjD/oBaH/4OZv8A5FoA6Ciuf+2eMP8AoBaH/wCDmb/5Fo+2eMP+gFof/g5m/wDkWgDoKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgorn/tnjD/AKAWh/8Ag5m/+RaPtnjD/oBaH/4OZv8A5FoA6Ciuf+2eMP8AoBaH/wCDmb/5Fo+2eMP+gFof/g5m/wDkWgDoKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgorn/tnjD/AKAWh/8Ag5m/+RaPtnjD/oBaH/4OZv8A5FoA6Ciuf+2eMP8AoBaH/wCDmb/5Fo+2eMP+gFof/g5m/wDkWgDoKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgorn/tnjD/AKAWh/8Ag5m/+RaPtnjD/oBaH/4OZv8A5FoA6Ciuf+2eMP8AoBaH/wCDmb/5Fo+2eMP+gFof/g5m/wDkWgDoKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgorn/tnjD/AKAWh/8Ag5m/+RaPtnjD/oBaH/4OZv8A5FoA6Ciuf+2eMP8AoBaH/wCDmb/5Fo+2eMP+gFof/g5m/wDkWgDoKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgorn/tnjD/AKAWh/8Ag5m/+RaPtnjD/oBaH/4OZv8A5FoA6Ciuf+2eMP8AoBaH/wCDmb/5Fo+2eMP+gFof/g5m/wDkWgDoKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgorn/tnjD/AKAWh/8Ag5m/+RaPtnjD/oBaH/4OZv8A5FoA6Ciuf+2eMP8AoBaH/wCDmb/5Fo+2eMP+gFof/g5m/wDkWgDoKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgorn/tnjD/AKAWh/8Ag5m/+RaPtnjD/oBaH/4OZv8A5FoA6Ciuf+2eMP8AoBaH/wCDmb/5Fo+2eMP+gFof/g5m/wDkWgDoKK5/7Z4w/wCgFof/AIOZv/kWj7Z4w/6AWh/+Dmb/AORaAOgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDn/wDhIdU/6EzXP+/1l/8AJFH/AAkOqf8AQma5/wB/rL/5IroKKAOf/wCEh1T/AKEzXP8Av9Zf/JFH/CQ6p/0Jmuf9/rL/AOSK6CigDn/+Eh1T/oTNc/7/AFl/8kUf8JDqn/Qma5/3+sv/AJIroKKAOf8A+Eh1T/oTNc/7/WX/AMkUf8JDqn/Qma5/3+sv/kiugooA5/8A4SHVP+hM1z/v9Zf/ACRR/wAJDqn/AEJmuf8Af6y/+SK6CigDn/8AhIdU/wChM1z/AL/WX/yRR/wkOqf9CZrn/f6y/wDkiugooA5//hIdU/6EzXP+/wBZf/JFH/CQ6p/0Jmuf9/rL/wCSK6CigDn/APhIdU/6EzXP+/1l/wDJFH/CQ6p/0Jmuf9/rL/5IroKKAOf/AOEh1T/oTNc/7/WX/wAkUf8ACQ6p/wBCZrn/AH+sv/kiugooA5//AISHVP8AoTNc/wC/1l/8kUf8JDqn/Qma5/3+sv8A5IroKKAOf/4SHVP+hM1z/v8AWX/yRR/wkOqf9CZrn/f6y/8AkiugooA5/wD4SHVP+hM1z/v9Zf8AyRR/wkOqf9CZrn/f6y/+SK6CigDn/wDhIdU/6EzXP+/1l/8AJFH/AAkOqf8AQma5/wB/rL/5IroKKAOf/wCEh1T/AKEzXP8Av9Zf/JFH/CQ6p/0Jmuf9/rL/AOSK6CigDn/+Eh1T/oTNc/7/AFl/8kUf8JDqn/Qma5/3+sv/AJIroKKAOf8A+Eh1T/oTNc/7/WX/AMkUf8JDqn/Qma5/3+sv/kiugooA5/8A4SHVP+hM1z/v9Zf/ACRR/wAJDqn/AEJmuf8Af6y/+SK6CigDn/8AhIdU/wChM1z/AL/WX/yRR/wkOqf9CZrn/f6y/wDkiugooA5//hIdU/6EzXP+/wBZf/JFH/CQ6p/0Jmuf9/rL/wCSK6CigDn/APhIdU/6EzXP+/1l/wDJFH/CQ6p/0Jmuf9/rL/5IroKKAOf/AOEh1T/oTNc/7/WX/wAkUf8ACQ6p/wBCZrn/AH+sv/kiugooA5//AISHVP8AoTNc/wC/1l/8kUf8JDqn/Qma5/3+sv8A5IroKKAOf/4SHVP+hM1z/v8AWX/yRR/wkOqf9CZrn/f6y/8AkiugooA5/wD4SHVP+hM1z/v9Zf8AyRR/wkOqf9CZrn/f6y/+SK6CigDn/wDhIdU/6EzXP+/1l/8AJFH/AAkOqf8AQma5/wB/rL/5IroKKAOf/wCEh1T/AKEzXP8Av9Zf/JFH/CQ6p/0Jmuf9/rL/AOSK6CigDn/+Eh1T/oTNc/7/AFl/8kUf8JDqn/Qma5/3+sv/AJIroKKAOf8A+Eh1T/oTNc/7/WX/AMkUf8JDqn/Qma5/3+sv/kiugooA5/8A4SHVP+hM1z/v9Zf/ACRR/wAJDqn/AEJmuf8Af6y/+SK6CigDn/8AhIdU/wChM1z/AL/WX/yRR/wkOqf9CZrn/f6y/wDkiugooA5//hIdU/6EzXP+/wBZf/JFH/CQ6p/0Jmuf9/rL/wCSK6CigDn/APhIdU/6EzXP+/1l/wDJFH/CQ6p/0Jmuf9/rL/5IroKKAOf/AOEh1T/oTNc/7/WX/wAkUf8ACQ6p/wBCZrn/AH+sv/kiugooA5//AISHVP8AoTNc/wC/1l/8kUf8JDqn/Qma5/3+sv8A5IroKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDz//AIXb8PP+hh/8krj/AON0f8Lt+Hn/AEMP/klcf/G6KKAD/hdvw8/6GH/ySuP/AI3R/wALt+Hn/Qw/+SVx/wDG6KKAD/hdvw8/6GH/AMkrj/43R/wu34ef9DD/AOSVx/8AG6KKAD/hdvw8/wChh/8AJK4/+N0f8Lt+Hn/Qw/8Aklcf/G6KKAD/AIXb8PP+hh/8krj/AON0f8Lt+Hn/AEMP/klcf/G6KKAD/hdvw8/6GH/ySuP/AI3R/wALt+Hn/Qw/+SVx/wDG6KKAD/hdvw8/6GH/AMkrj/43R/wu34ef9DD/AOSVx/8AG6KKAD/hdvw8/wChh/8AJK4/+N0f8Lt+Hn/Qw/8Aklcf/G6KKAD/AIXb8PP+hh/8krj/AON0f8Lt+Hn/AEMP/klcf/G6KKAD/hdvw8/6GH/ySuP/AI3R/wALt+Hn/Qw/+SVx/wDG6KKAD/hdvw8/6GH/AMkrj/43R/wu34ef9DD/AOSVx/8AG6KKAD/hdvw8/wChh/8AJK4/+N0f8Lt+Hn/Qw/8Aklcf/G6KKAD/AIXb8PP+hh/8krj/AON0f8Lt+Hn/AEMP/klcf/G6KKAD/hdvw8/6GH/ySuP/AI3R/wALt+Hn/Qw/+SVx/wDG6KKAD/hdvw8/6GH/AMkrj/43R/wu34ef9DD/AOSVx/8AG6KKAD/hdvw8/wChh/8AJK4/+N0f8Lt+Hn/Qw/8Aklcf/G6KKAD/AIXb8PP+hh/8krj/AON0f8Lt+Hn/AEMP/klcf/G6KKAD/hdvw8/6GH/ySuP/AI3R/wALt+Hn/Qw/+SVx/wDG6KKAD/hdvw8/6GH/AMkrj/43R/wu34ef9DD/AOSVx/8AG6KKAD/hdvw8/wChh/8AJK4/+N0f8Lt+Hn/Qw/8Aklcf/G6KKAD/AIXb8PP+hh/8krj/AON0f8Lt+Hn/AEMP/klcf/G6KKAD/hdvw8/6GH/ySuP/AI3R/wALt+Hn/Qw/+SVx/wDG6KKAD/hdvw8/6GH/AMkrj/43R/wu34ef9DD/AOSVx/8AG6KKAD/hdvw8/wChh/8AJK4/+N0f8Lt+Hn/Qw/8Aklcf/G6KKAD/AIXb8PP+hh/8krj/AON0f8Lt+Hn/AEMP/klcf/G6KKAD/hdvw8/6GH/ySuP/AI3R/wALt+Hn/Qw/+SVx/wDG6KKAD/hdvw8/6GH/AMkrj/43R/wu34ef9DD/AOSVx/8AG6KKAD/hdvw8/wChh/8AJK4/+N0f8Lt+Hn/Qw/8Aklcf/G6KKAD/AIXb8PP+hh/8krj/AON0f8Lt+Hn/AEMP/klcf/G6KKAD/hdvw8/6GH/ySuP/AI3R/wALt+Hn/Qw/+SVx/wDG6KKAD/hdvw8/6GH/AMkrj/43R/wu34ef9DD/AOSVx/8AG6KKAD/hdvw8/wChh/8AJK4/+N0f8Lt+Hn/Qw/8Aklcf/G6KKAD/AIXb8PP+hh/8krj/AON0f8Lt+Hn/AEMP/klcf/G6KKAD/hdvw8/6GH/ySuP/AI3R/wALt+Hn/Qw/+SVx/wDG6KKAP//Z" id="p2img1"></DIV>
+</div>
+<h3>Research</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem in deserunt voluptates quos a nam nemo atque.</p>
+</div>
+</li>
+<li>
+<svg class="process-line" viewBox="0 0 208 105" preserveAspectRatio="xMinYMax meet"><path stroke-width="1.5" d="M433,322.81q3.06,0,6,.12" transform="translate(-433.03 -322.31)" /><path stroke-width="1.5" d="M451,323.93c82.73,10.74,91.74,95.21,178,102.39" transform="translate(-433.03 -322.31)" /><path stroke-width="1.5" d="M635,426.69q2.94,0.12,6,.12" transform="translate(-433.03 -322.31)" /></svg>
+<div class="process-main">
+<div class="process-icon">
+<img src="img/demo/brainstorm.svg" alt="">
 
 
-<DIV id="id_1">
-<P class="p21 ft1">Project Experience</P>
-<P class="p22 ft2"><NOBR>Jun2016-17</NOBR> Visual Recommender</P>
-<P class="p23 ft2">Developed a visually similar Product Recommender that is used to products that are visually similar to a given product using Deep Learning (a concept of Machine Learning).</P>
-<P class="p24 ft2">Feb 2016 Bank Management System</P>
-<P class="p25 ft2">A minor project using c++,in which bank processes proceeds</P>
-<P class="p26 ft2">January 2016 Stopwatch Android App</P>
-<P class="p25 ft9">Design a Android App(Stopwatch) which is Compatible to Nougat Android OS.</P>
-<P class="p27 ft1">Achievements:</P>
-<P class="p28 ft2">2015: Participants for <NOBR>ACM-ICPC</NOBR> Asia onsite round.</P>
-<P class="p29 ft2">2016: Second time selected for the <NOBR>ACM-ICPC</NOBR> Asia onsite round.</P>
-<P class="p30 ft10">2014: Got INSPIRE Scholarship (Scholarship for Higher Education ) by Ministry of Science & Technology</P>
-<P class="p31 ft11">2013: Third Prize winner at RVIT College Bijnore in a Smart Science Competition. <NOBR>2011-13:</NOBR> Facilitated twice by the Minister of State(U.P) for academic excellence</P>
-<P class="p32 ft1">Skills and Capabilities::</P>
-<P class="p33 ft2">Hard working ,versatile ,optimistic ,empathetic and the ability to collaborate</P>
-<P class="p22 ft1">Position of Responsibilities</P>
-<P class="p34 ft2"><NOBR>2016-17:</NOBR> Coordinator in college annual fest techhertz’16 “battle code” on online platform codechef.</P>
-<P class="p35 ft2">2016: Team members of Management Dept. in the college annual fest TechoSrijan.</P>
-<P class="p36 ft1"><NOBR>Extra-Curricular</NOBR> Activities and Interests:</P>
-<P class="p37 ft2"><SPAN class="ft12"></SPAN><SPAN class="ft13">Handling all Hardware and all Computer Networking related issues.</SPAN></P>
-<P class="p38 ft2"><SPAN class="ft12"></SPAN><SPAN class="ft13">Categorization of Data according to their Category.</SPAN></P>
-<P class="p39 ft2"><SPAN class="ft12"></SPAN><SPAN class="ft13">Data processing</SPAN></P>
-<P class="p39 ft2"><SPAN class="ft12"></SPAN><SPAN class="ft13">Algorithmic Programming</SPAN></P>
-<P class="p38 ft2"><SPAN class="ft12"></SPAN><SPAN class="ft13">Data Structure and Algorithm</SPAN></P>
-<P class="p32 ft1">Languages</P>
-<P class="p40 ft2">HINDI: <NOBR>Mother-tongue</NOBR></P>
-<P class="p41 ft2">English: Fluent</P>
-<P class="p36 ft1">Declaration</P>
-</DIV>
-<DIV id="id_2">
-<P class="p21 ft2">I hereby declare that the above information is true to the best of my knowledge.</P>
-</DIV>
-</DIV>
-</BODY>
-</HTML>
+</div>
+<h3>Brainstorm</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem in deserunt voluptates quos a nam nemo atque.</p>
+</div>
+</li>
+<li>
+<svg class="process-line" viewBox="0 0 208 105" preserveAspectRatio="xMinYMin meet"><path stroke-width="1.5" d="M433,322.81q3.06,0,6,.12" transform="translate(-433.03 -322.31)" /><path stroke-width="1.5" d="M451,323.93c82.73,10.74,91.74,95.21,178,102.39" transform="translate(-433.03 -322.31)" /><path stroke-width="1.5" d="M635,426.69q2.94,0.12,6,.12" transform="translate(-433.03 -322.31)" /></svg>
+<div class="process-main">
+<div class="process-icon">
+<img src="img/demo/prototype.svg" alt="">
+
+
+</div>
+<h3>Prototype</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem in deserunt voluptates quos a nam nemo atque.</p>
+</div>
+</li>
+<li>
+<svg class="process-line" viewBox="0 0 208 105" preserveAspectRatio="xMinYMax meet"><path stroke-width="1.5" d="M433,322.81q3.06,0,6,.12" transform="translate(-433.03 -322.31)" /><path stroke-width="1.5" d="M451,323.93c82.73,10.74,91.74,95.21,178,102.39" transform="translate(-433.03 -322.31)" /><path stroke-width="1.5" d="M635,426.69q2.94,0.12,6,.12" transform="translate(-433.03 -322.31)" /></svg>
+<div class="process-main">
+<div class="process-icon">
+<img src="img/demo/fine-tune.svg" alt="">
+
+
+</div>
+<h3>Fine-Tune</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem in deserunt voluptates quos a nam nemo atque.</p>
+</div>
+</li>
+</ul>
+</section>
+<section id="pricing" class="section-pricing">
+<h2>Pricing</h2>
+<div class="pricing-list flex-responsive">
+<ul class="pricing-plan">
+<li class="pricing-header">
+<div class="animation-chain overflow-hidden">
+<h3>Standard</h3>
+<p>$79</p>
+</div>
+</li>
+<li>Simple user research</li>
+<li>Wireframing</li>
+<li>Visual design <span class="highlight">New</span></li>
+<li>1 page</li>
+<li>Support & assistance</li>
+<li><a href="#" class="btn btn-outline btn-sm">Purchase</a></li>
+</ul>
+<ul class="pricing-plan pricing-plan-big">
+<li class="pricing-header">
+<div class="ribbon">Most Popular</div>
+<div class="animation-chain overflow-hidden">
+<h3>Premium</h3>
+<p>$129</p>
+</div>
+</li>
+<li>Extensive user research</li>
+<li>Wireframing</li>
+<li>Visual design <span class="highlight">New</span></li>
+<li>3 pages</li>
+<li>Support & assistance</li>
+<li><a href="#" class="btn btn-outline btn-sm">Purchase</a></li>
+</ul>
+<ul class="pricing-plan">
+<li class="pricing-header">
+<div class="animation-chain overflow-hidden">
+<h3>Ultimate</h3>
+<p>$199</p>
+</div>
+</li>
+<li>Extensive user research</li>
+<li>Wireframing</li>
+<li>Visual design <span class="highlight">New</span></li>
+<li>5 pages</li>
+<li>Support & assistance</li>
+<li><a href="#" class="btn btn-outline btn-sm">Purchase</a></li>
+</ul>
+</div>
+</section>
+<section id="contact" class="section-contact bgDarkGray flex-responsive">
+<div class="left">
+<a href="#" class="map-view-switch">Map</a>
+<div class="map-canvas"></div>
+<div class="contact-main">
+<h2>Contact</h2>
+<div class="row contact-info animation-chain overflow-hidden">
+<div class="col-md-4">
+<div class="icon"><span class="lnr lnr-map-marker"></span></div>
+<h3>Address</h3>
+<p>12/F, 999 Jordan Road, Hong Kong</p>
+</div>
+<div class="col-md-4">
+<div class="icon"><span class="lnr lnr-smartphone"></span></div>
+<h3>Telephone</h3>
+<p>(852) 1234-5678</p>
+</div>
+<div class="col-md-4">
+<div class="icon"><span class="lnr lnr-envelope"></span></div>
+<h3>Email</h3>
+<p><a href="email:example@example.com"><span class="__cf_email__" data-cfemail="284d50494558444d684d50494558444d064b4745">[email&#160;protected]</span></a></p>
+</div>
+</div>
+<form method="post" action="php/contact.php" name="contact-form" id="contact-form">
+<ul>
+<li>
+<input type="text" id="contact-form-name" name="contact-form-name">
+<label for="contact-form-name">Name</label>
+<svg viewBox="0 0 1085.41 36" preserveAspectRatio="none"><path d="M69.29,293.79h370.5c86.11,0,86.11-25,172.21-25s86.11,25,172.21,25h370.5" transform="translate(-69.29 -268.29)" /></svg>
+</li>
+<li>
+<input type="text" name="contact-form-email" id="contact-form-email">
+<label for="contact-form-email">Email</label>
+<svg viewBox="0 0 1085.41 36" preserveAspectRatio="none"><path d="M69.29,293.79h370.5c86.11,0,86.11-25,172.21-25s86.11,25,172.21,25h370.5" transform="translate(-69.29 -268.29)" /></svg>
+</li>
+<li>
+<input type="text" name="contact-form-title" id="contact-form-title">
+<label for="contact-form-title">Title</label>
+<svg viewBox="0 0 1085.41 36" preserveAspectRatio="none"><path d="M69.29,293.79h370.5c86.11,0,86.11-25,172.21-25s86.11,25,172.21,25h370.5" transform="translate(-69.29 -268.29)" /></svg>
+</li>
+<li>
+<textarea name="contact-form-content" id="contact-form-content"></textarea>
+<label for="contact-form-content">Content</label>
+<svg viewBox="0 0 1085.41 36" preserveAspectRatio="none"><path d="M69.29,293.79h370.5c86.11,0,86.11-25,172.21-25s86.11,25,172.21,25h370.5" transform="translate(-69.29 -268.29)" /></svg>
+</li>
+</ul>
+<input id="#contact-form-submit-btn" type="submit" value="Drop Me a Line">
+</form>
+<div id="message"></div>
+</div>
+</div>
+<div class="right">
+<ul class="connect">
+<li><a href="#"><span class="icon-envelope"></span></a></li>
+<li><a href="#"><span class="icon-facebook"></span></a></li>
+<li><a href="#"><span class="icon-twitter"></span></a></li>
+<li><a href="#"><span class="icon-linkedin"></span></a></li>
+<li><a href="#"><span class="icon-dribbble"></span></a></li>
+</ul>
+</div>
+</section>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="js/vendor/bootstrap.min.js"></script>
+<script src="js/vendor/imagesloaded.pkgd.min.js"></script>
+<script src="js/vendor/isotope.pkgd.min.js"></script>
+<script src="js/vendor/jquery.lettering.js"></script>
+<script src="js/vendor/jquery.textillate.js"></script>
+<script src="js/vendor/owl.carousel.2.1.0/owl.carousel.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqgIr-kCHTT3pUT8nPbqOB4m_RRNX2BCA" type="text/javascript"></script>
+<script src="js/google-maps.js"></script>
+<script src="js/contact.js"></script>
+<script src="js/main.js"></script>
+<script src="js/demo.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82351731-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
