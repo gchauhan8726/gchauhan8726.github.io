@@ -111,8 +111,7 @@ body {margin-top: 0px;margin-left: 0px;}
 <P class="p10 ft2">2010- 2011: High School Exams(U.P Board) From Saraswati Vidya Mandir,Hasanpur Percent: 76</P>
 <P class="p11 ft1">Computer Skills</P>
 <P class="p12 ft2">Programming Languages: C,CPP,Java,HTML,CSS,</P>
-<P class="p13 ft2">Python and PHP</P>
-<P class="p13 ft2">Machine Learning</P>
+<P class="p13 ft2">PHP</P>
 <P class="p14 ft8">Software Used: DBMS ,Networking,</P>
 <P class="p13 ft2">SQL,Android,MATLAB</P>
 <P class="p15 ft2">Operating systems: Windows,Linux (Ubuntu)</P>
